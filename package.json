@@ -11,9 +11,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
+    "homepage": "https://github.com/jaydray1/portfolio.git",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
+        "url": "https://github.com/jaydray1/portfolio.git",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -21,9 +21,9 @@
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
-    // "repository": {
-    //     "type": "git",
-    //     "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jaydray1/portfolio.git"
     },
     "dependencies": {
         "bootstrap": "^4.0.0-beta",
