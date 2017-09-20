@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - Createive v4.0.0-beta (https://startbootstrap.com/template-overviews/creative)
+ * Start Bootstrap - Portfolio v4.0.0-beta (https://startbootstrap.com/template-overviews/creative)
  * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/BlackrockDigital/Jon-Michael Dreher Portfolio/blob/master/LICENSE)
  */
 body,
 html {
@@ -147,7 +147,7 @@ header.masthead {
   min-height: auto;
   text-align: center;
   color: white;
-  background-image: url("../img/header.jpg");
+  background-image: url("../img/gray-main2.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -196,7 +196,8 @@ header.masthead {
 
 .service-box {
   max-width: 400px;
-  margin: 50px auto 0; }
+  margin: 50px auto 0;
+  font-size: 80px; }
   @media (min-width: 992px) {
     .service-box {
       margin: 20px auto 0; } }
