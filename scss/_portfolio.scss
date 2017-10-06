@@ -45,6 +45,10 @@
     outline: none;
   }
   @media (min-width: 768px) {
+    .port-content {
+      color: red;
+      text-align: center;
+    }
     .portfolio-box-caption {
       .portfolio-box-caption-content {
         .project-category {
@@ -56,4 +60,5 @@
       }
     }
   }
+  
 }
